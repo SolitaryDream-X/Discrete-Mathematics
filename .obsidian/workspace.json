@@ -193,8 +193,8 @@
       "command-palette:打开命令面板": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:打开Git源代码管理": false,
-      "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false
+      "i18n:I18N": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "a55b1632a0be684c",
