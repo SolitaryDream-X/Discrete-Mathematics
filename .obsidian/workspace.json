@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "附录1 命题等价公式.md",
+                "file": "第01章 命题逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "附录1 命题等价公式"
+              "title": "第01章 命题逻辑"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "a55b1632a0be684c",
   "lastOpenFiles": [
-    "第01章 命题逻辑.md",
     "附录1 命题等价公式.md",
+    "第01章 命题逻辑.md",
     "README.md",
     "第07章 图论.md",
     "第06章 格与布尔代数.md",
