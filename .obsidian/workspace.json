@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "61c90a97bc99db77",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f52f1305c9b770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a55b1632a0be684c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504150a2b248f7d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee619b91fdc50ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7f061357dcb51e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "32c29fe93304aeab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d5cc970af79f7b8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "f583428130d0a2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b3504a73e9bbe03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "475428c1f2e8151b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3beff34b8c1f6738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高等数学/第一章 函数与极限.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一章 函数与极限 的反向链接列表"
+            }
+          },
+          {
+            "id": "943c978665f188bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高等数学/第一章 函数与极限.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一章 函数与极限 的出链列表"
+            }
+          },
+          {
+            "id": "f291bfe03615db42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "56d80e3a2f0b3b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一章 函数与极限.md"
+              },
+              "icon": "lucide-list",
+              "title": "第一章 函数与极限 的大纲"
+            }
+          },
+          {
+            "id": "78aaeaab08ec3bbe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a55b1632a0be684c",
+  "lastOpenFiles": [
+    "第06章 定积分的应用.md",
+    "第04章 不定积分.md",
+    "第05章 定积分.md",
+    "README.md",
+    "附录3  积分表.md",
+    "第03章 微分中值定理与导数的应用.md",
+    "第02章 导数与微分.md",
+    "第01章 函数与极限.md",
+    "附录2 微分法则.md",
+    "附录1 初等函数导数表.md",
+    "目录.md",
+    "第12章 无穷级数.md",
+    "第11章 曲线积分与曲面积分.md",
+    "第10章 重积分.md",
+    "第09章 多元函数微分法及其应用.md",
+    "第08章 向量代数与空间解析几何.md",
+    "第07章 微分方程.md",
+    "高等数学/README.md",
+    "高等数学/第一章 函数与极限.md",
+    "高等数学/目录.md",
+    "高等数学.md",
+    "未命名"
+  ]
+}
