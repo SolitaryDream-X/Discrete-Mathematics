@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第01章 命题逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "第01章 命题逻辑"
             }
           }
         ]
@@ -74,16 +74,6 @@
             }
           },
           {
-            "id": "f583428130d0a2c7",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
             "id": "85da56754f5e3686",
             "type": "leaf",
             "state": {
@@ -94,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,10 +189,17 @@
   },
   "active": "a55b1632a0be684c",
   "lastOpenFiles": [
+    "README.md",
+    "第07章 图论.md",
+    "第06章 格与布尔代数.md",
+    "第05章 代数结构.md",
+    "第04章 函数与无限集合.md",
+    "第03章 集合与关系.md",
+    "第02章 谓词逻辑.md",
+    "第01章 命题逻辑.md",
     "第06章 定积分的应用.md",
     "第04章 不定积分.md",
     "第05章 定积分.md",
-    "README.md",
     "附录3  积分表.md",
     "第03章 微分中值定理与导数的应用.md",
     "第02章 导数与微分.md",
@@ -218,8 +215,6 @@
     "第07章 微分方程.md",
     "高等数学/README.md",
     "高等数学/第一章 函数与极限.md",
-    "高等数学/目录.md",
-    "高等数学.md",
     "未命名"
   ]
 }
